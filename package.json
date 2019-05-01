@@ -1,0 +1,25 @@
+{
+    "name": "npm-js-intro",
+    "version": "1.0.0",
+    "description": "Modulo Node Js de introduccion npm",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jbaguilarr/npm-js-intro.git"
+    },
+    "keywords": [
+        "introduccion",
+        "nodejs",
+        "node",
+        "js"
+    ],
+    "author": "Bruno Aguilar <josebrunoaguilar@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jbaguilarr/npm-js-intro/issues"
+    },
+    "homepage": "https://github.com/jbaguilarr/npm-js-intro#readme"
+}
